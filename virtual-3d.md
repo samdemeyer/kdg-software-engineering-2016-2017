@@ -1,6 +1,6 @@
 - Aben Tony
-	- e-mailadres: tony.aben@student.kdg.be
-	- github: https://github.com/tony-aben/software-engineering-oplossingen.git
+	- e-mailadres: naam@student.kdg.be
+	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Bauwens Stefan
 	- e-mailadres: naam@student.kdg.be
