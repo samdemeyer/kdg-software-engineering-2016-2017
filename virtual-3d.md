@@ -87,8 +87,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Van Bogaert Jorden
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: jorden.vanbogaert@student.kdg.be
+	- github: https://github.com/jordenvb/software-engineering-oplossingen.git
 
 - Van den Eynde Kilian
 	- e-mailadres: naam@student.kdg.be
