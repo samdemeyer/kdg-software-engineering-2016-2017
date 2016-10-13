@@ -39,8 +39,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - De Weze Caro
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: carodeweze@student.kdg.be
+	- github: https://github.com/carodeweze/software-engineering-oplossingen
 
 - Diels Lode
 	- e-mailadres: naam@student.kdg.be
