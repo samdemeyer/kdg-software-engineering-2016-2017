@@ -59,8 +59,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Mathieu Nick
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: nick.mathieu@student.kdg.be
+	- github: https://github.com/NickMathieuKDG/software-engineering-oplossingen.git
 
 - Meyvisch Jochen
 	- e-mailadres: naam@student.kdg.be
