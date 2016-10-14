@@ -67,8 +67,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Mijnendonckx Billy
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: billy.mijnendonckx@student.kdg.be
+	- github: https://github.com/bmijnendonckx/software-engineering-oplossingen.git
 
 - Milivojevic Boris
 	- e-mailadres: naam@student.kdg.be
