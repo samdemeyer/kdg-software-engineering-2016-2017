@@ -127,8 +127,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Verhelst Thomas
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: thomas.verhelst@student.kdg.be
+	- github: https://github.com/TVke/software-engineering-oplossingen.git
 
 - Vermeire Adriaan
 	- e-mailadres: naam@student.kdg.be
