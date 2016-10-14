@@ -3,8 +3,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Banasik Katriena
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: katriena.banasik@student.kdg.be
+	- github: https://github.com/galaxic/software-engineering-oplossingen.git
 
 - Bassleer Joren
 	- e-mailadres: naam@student.kdg.be
