@@ -115,8 +115,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Verhoeven Steve
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: steve.verhoeven@student.kdg.be
+	- github: https://github.com/StarlightNight/software-engineering-oplossingen.git
 
 - Vyt Angelo
 	- e-mailadres: naam@student.kdg.be
