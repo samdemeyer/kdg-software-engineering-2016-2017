@@ -119,8 +119,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Van Nimmen Niels
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: niels.vannimmen@student.kdg.be
+	- github: https://github.com/azerty080/software-engineering-oplossingen.git
 
 - Van Rompa Imke
 	- e-mailadres: naam@student.kdg.be
