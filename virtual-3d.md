@@ -71,8 +71,8 @@
 	- github: https://github.com/bmijnendonckx/software-engineering-oplossingen.git
 
 - Milivojevic Boris
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: boris.milivojevic@student.kdg.be
+	- github: https://github.com/Borilium/software-engineering-oplossingen.git
 
 - Neve Dennis
 	- e-mailadres: naam@student.kdg.be
