@@ -99,9 +99,9 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Van Assche Jens
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
-
+	- e-mailadres: jens.vanassche@student.kdg.be
+	- github: https://github.com/JensVanAssche/oplossingen_software.git
+	
 - Vanderlinden Lore
 	- e-mailadres: naam@student.kdg.be
 	- github: https://github.com/naam/software-engineering-oplossingen.git
