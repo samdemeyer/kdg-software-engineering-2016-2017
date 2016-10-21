@@ -43,8 +43,8 @@
 	- github: https://github.com/carodeweze/software-engineering-oplossingen
 
 - Diels Lode
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: lode.diels@student.kdg.be
+	- github:https://github.com/LodeDiels/software-engineering-oplossingen.git
 
 - Feijens Geordi
 	- e-mailadres: naam@student.kdg.be
