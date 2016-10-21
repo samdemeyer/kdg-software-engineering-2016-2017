@@ -31,8 +31,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - De Ridder Pieter-Jan
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: pieterjan.deridder@student.kdg.be
+	- github: https://github.com/PeeJeeDR/software-engineering-oplossingen.git
 
 - Detemmerman Jordy
 	- e-mailadres: jordy.detemmerman@student.kdg.be
