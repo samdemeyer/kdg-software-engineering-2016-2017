@@ -43,8 +43,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Eysermans Stijn
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: stijn.eysermans@student.kdg.be
+	- github: https://github.com/stijneysermans/software-engineering-oplossingen.git
 
 - Fekkes Christina
 	- e-mailadres: naam@student.kdg.be
