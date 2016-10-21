@@ -119,5 +119,5 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Vyt Angelo
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: angelo.vyt@student.kdg.be
+	- github: https://github.com/Angeluso/software-engineering-oplossingen.git
