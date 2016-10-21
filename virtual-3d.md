@@ -99,8 +99,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Vanhooydonck Quinten
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: quinten.vanhooydonck@student.kdg.be
+	- github: https://github.com/quinv/software-engineering-oplossingen.git
 
 - Van Ingelghem Jente
 	- e-mailadres: naam@student.kdg.be
