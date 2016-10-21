@@ -35,8 +35,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Detemmerman Jordy
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: jordy.detemmerman@student.kdg.be
+	- github: https://github.com/Temeines/software-engineering-oplossingen.git
 
 - De Weze Caro
 	- e-mailadres: naam@student.kdg.be
