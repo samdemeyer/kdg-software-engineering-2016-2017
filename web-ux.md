@@ -63,8 +63,8 @@
 	- github: https://github.com/NickMathieuKDG/software-engineering-oplossingen.git
 
 - Meyvisch Jochen
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: jochen.meyvisch@student.kdg.be
+	- github: https://github.com/JochenM97/kdg-software-engineering-2016-2017
 
 - Minnebo Thomas
 	- e-mailadres: naam@student.kdg.be
