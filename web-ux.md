@@ -11,8 +11,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Borret Sander
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: sander.borret@student.kdg.be
+	- github: https://github.com/ssssssander/software-engineering-oplossingen.git
 
 - Dandois Joren
 	- e-mailadres: naam@student.kdg.be
