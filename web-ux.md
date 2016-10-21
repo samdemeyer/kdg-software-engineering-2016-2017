@@ -135,8 +135,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Verschueren Tom
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: tom.verschueren@student.kdg.be
+	- github: https://github.com/TomVerschueren/software-engineering-oplossingen.git
 
 - Zenner Michaël
 	- e-mailadres: naam@student.kdg.be
