@@ -55,8 +55,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Ho Cindy
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: cindy.ho@student.kdg.be
+	- github: https://github.com/cindyho97/software-engineering-oplossingen.git
 
 - Hul Silviu
 	- e-mailadres: naam@student.kdg.be
