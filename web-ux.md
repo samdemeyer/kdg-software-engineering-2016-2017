@@ -1,6 +1,6 @@
 - Aussems Alessandro
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: alessandro.aussems@student.kdg.be
+	- github: https://github.com/alessandroaussems/KDG-SoftwareEgineering_Oplossingen.git
 
 - Banasik Katriena
 	- e-mailadres: katriena.banasik@student.kdg.be
