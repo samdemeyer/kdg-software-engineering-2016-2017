@@ -111,8 +111,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Van Dijck Hendrik
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: hendrik.vandijck@student.kdg.be
+	- github: https://github.com/ajkea/software-engineering.git
 
 - Van Loey Jonas
 	- e-mailadres: naam@student.kdg.be
